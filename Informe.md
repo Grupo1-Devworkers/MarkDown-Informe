@@ -258,3 +258,31 @@ Segmento 1: Conductor
 Segmento 2: Dueño de estacionamiento
 
 ![asismap2](asismap2.png)
+
+|Epic/User Story|Título|Descripción|Criterio de aceptación|Relacionado (EPIC ID)|
+|-|-|-|-|-|
+|US01|Realizar una reserva de un estacionamiento cercano|Como usuario deseo poder realizar la reserva de un espacio de estacionamiento lo más cercano posible a mi ubicación|DADO que el usuario se encuentra en la página principal, CUANDO ingrese a la opción de reservar un estacionamiento ENTONCES me muestre una lista de opciones disponibles con los horarios correspondientes|US02|
+|US02|Realizar la reserva de una estacionamiento específico|Como usuario deseo realizar una reserva de un estacionamiento que yo quiero en una ubicación, fecha y hora específica|DADO que el usuario se encuentra en la página principal, CUANDO ingrese a la opción de reserva, me muestre el estacionamiento que busco ENTONCES me permite hacer la reserva a la fecha y hora que quiero|US01|
+|US03|Registrar la cuenta de usuario|Como usuario deseo poder registrarme en la plataforma para poder aprovechar el servicio brindado|<li>DADO que el usuario se encuentre en la landing page CUANDO ingrese a la opción de registrarse ENTONCES me aparezca un formulario para poder registrar mi cuenta como conductor<li>DADO que el usuario se encuentra en la landing page CUANDO el usuario haga click en la opción de registrarse ENTONCES aparezca un formulario para registrarse como dueño de un estacionamiento|US04|
+|US04|Iniciar sesión|Como usuario deseo poder iniciar sesión ya estando registrado en la plataforma|<li>DADO que el usuario ya tiene su cuenta registrada CUANDO ingrese su correo electrónico y contraseña incorrectos ENTONCES aparezca un aviso de datos incorrectos<li>DADO que el usuario ya tiene su cuenta registrada CUANDO ingrese su correo electrónico y contraseña correctos ENTONCES se le permita el ingreso a la plataforma.|US03|
+|US05|Editar los datos del perfil de usuario|Como usuario deseo poder modificar mis datos personales de mi perfil dentro de la aplicación|DADO que el usuario se encuentra en su perfil CUANDO aprete en la opción de “Editar perfil” ENTONCES la aplicación le permite editar los datos personales correspondientes|US03|
+|US06|Visualización de la calificación de un estacionamiento|Como usuario deseo poder ver la calificación que tiene un estacionamiento|DADO que el usuario se encuentra en el inicio CUANDO busque un estacionamiento específico ENTONCES le muestre la calificación que tiene este local|-|
+|US07|Establecer detalles de estacionamiento|Como dueño del lugar de estacionamiento deseo poder establecer la información de mi local para que los clientes tengan en cuenta|DADO que soy dueño de estacionamiento y estoy registrado CUANDO use la opción de “Publicar estacionamiento” ENTONCES se muestre un formulario para poder completar la información de mi estacionamiento y publicarlo|-|
+|US08|Visualizar comentarios sobre el estacionamiento (dueño)|Como dueño de estacionamiento deseo poder ver mis publicaciones y los comentarios correspondientes|DADO que soy dueño y he publicado mis estacionamientos CUANDO aprete en “Ver mis publicaciones” ENTONCES se muestre mis estacionamientos, las calificaciones y comentarios|-|
+|US09|Ver comentarios sobre el estacionamiento (conductor)|Como usuario deseo poder ver los comentarios correspondientes de un estacionamiento|DADO que soy un conductor CUANDO busque un estacionamiento específico ENTONCES se muestre los comentarios realizados por otros clientes.|-|
+|US10|Cargar datos de mi vehículo|Como usuario de la aplicación deseo poder ingresar los datos de mi vehículo para que se registren en la plataforma|DADO que el usuario quiere subir los datos de su vehículo CUANDO ingrese a su perfil y haga click en la opción “Mis vehículos” ENTONCES se muestre un formulario para poner los datos de su vehículo|-|
+|US11|Ingresar datos de pago|Como usuario deseo poder agregar los datos de pago para poder realizar reservas|DADO que el usuario ya tiene su cuenta registrando CUANDO entre a “Mi perfil” y aprete en la opción de “Registrar metodo de pago” ENTONCES se mostrará un formulario para llenar los datos de la tarjeta de credito|-|
+|US12|Reprogramar la cita|Como usuario deseo poder reprogramar una reservación si es que tengo algún percance.|DADO que el usuario ya ha registrado una reserva CUANDO vaya a la opción “Mis reservas” y tenga una reserva hecha y use la opcion|-|
+|US13|Multi-idiomas|Como usuario deseo poder cambiar el idioma de la página web al lenguaje que yo entienda|DADO que el usuario se encuentra en cualquier parte de la aplicación web CUANDO aprete en el boton “Idioma” ENTONCES se traducirá al lenguaje deseado|-|
+|US14|Recibir comprobante de pago electrónico|Como usuario deseo recibir un comprobante de pago en el cual se especifiquen los datos correspondientes|DADO que el usuario ya concluyó su servicio de estacionamiento CUANDO vuelva a la página de inicio ENTONCES la aplicación le enviará un comprobante a su correo|-|
+|US15|Cancelar cita|Como usuario deseo cancelar la reserva que realicé|DADO que el usuario se encuentra en la sección “Mis reservas” CUANDO aprete en la opción “Cancelar reserva” ENTONCES se cancelará la reserva y se cobrará una penalización según el tiempo que estuvo reservado el estacionamiento|-|
+
+### 3.3 Impact Mapping
+
+Segmento 1: Conductor
+
+![impactmap1](impactmap1.png)
+
+Segmento 2: Dueño de estacionamiento
+
+![impactmap2](impactmap2.png)
