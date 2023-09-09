@@ -249,3 +249,12 @@ EL PRODUCTO:
 
 
 
+### 2.3.5 As-Is Scenario Mapping
+
+Segmento 1: Conductor
+
+![asismap1](asismap.png)
+
+Segmento 2: Dueño de estacionamiento
+
+![asismap2](asismap2.png)
