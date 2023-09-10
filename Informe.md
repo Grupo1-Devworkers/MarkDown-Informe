@@ -19,7 +19,7 @@ Nuestra misión es brindar información sobre la ubicación de los aparcamientos
 
 |Imagen|Integrante|
 |-----:|:-----|
-| |Nombre: Tomas Ortiz Fajardo / Código: U201910146 / Carrera: Ingeniería de Software Soy Tomas Ortiz Fajardo y me encuentro cursando la carrera de Ingeniería de Software. Siempre me ha gustado la programación, y tengo la suerte de poder aprender y dominar más de un lenguaje de programación, como por ejemplo Python, Javascript, C + +, entre otros. Espero poder colaborar a este trabajo lo suficiente para poder generar más buenos recuerdos y seguir aprendiendo.|
+|![tomas](tomas.png) |Nombre: Tomas Ortiz Fajardo / Código: U201910146 / Carrera: Ingeniería de Software Soy Tomas Ortiz Fajardo y me encuentro cursando la carrera de Ingeniería de Software. Siempre me ha gustado la programación, y tengo la suerte de poder aprender y dominar más de un lenguaje de programación, como por ejemplo Python, Javascript, C + +, entre otros. Espero poder colaborar a este trabajo lo suficiente para poder generar más buenos recuerdos y seguir aprendiendo.|
 |||
 |![oscar](oscar.jpeg) | Nombre: Oscar Sebastian Nicolas Moreno Carmona / Código: U201911522 / Carrera: Ingeniería de Software Me considero un chico comprometido con mejorar cada día y aportar mis conocimientos para poder brindar soluciones óptimas a los problemas que pueden haber en la actualidad, siempre teniendo en cuenta el impacto que tiene ambientalmente y también considerando los valores éticos con los cuales fui formado.|
 | | |
@@ -308,6 +308,12 @@ Segmento 2: Dueño de estacionamiento
 
 ![asismap2](asismap2.png)
 
+## Capítulo III: Requirements Specification
+
+### 3.1. To-Be Scenario Mapping.
+
+### 3.2. User Stories
+
 |Epic/User Story|Título|Descripción|Criterio de aceptación|Relacionado (EPIC ID)|
 |-|-|-|-|-|
 |US01|Realizar una reserva de un estacionamiento cercano|Como usuario deseo poder realizar la reserva de un espacio de estacionamiento lo más cercano posible a mi ubicación|DADO que el usuario se encuentra en la página principal, CUANDO ingrese a la opción de reservar un estacionamiento ENTONCES me muestre una lista de opciones disponibles con los horarios correspondientes|US02|
@@ -336,6 +342,8 @@ Segmento 2: Dueño de estacionamiento
 
 ![impactmap2](impactmap2.png)
 
+### 3.4. Product Backlog
+
 ## **Capítulo IV: Product Design**
 ### 4.1 Style Guidelines
 #### 4.1.1 General Style Guidelines
@@ -361,6 +369,18 @@ La fuente “Montserrat” es la elegida para el texto, título y demás compone
 identidad de la educación con esta fuente.
 
 ![style2](styleguidelinesletter.png)
+
+### 4.2. Information Architecture.
+
+#### 4.2.1. Organization Systems.
+
+#### 4.2.2. Labeling Systems.
+
+#### 4.2.3. SEO Tags and Meta Tags
+
+#### 4.2.4. Searching Systems.
+
+#### 4.2.5. Navigation Systems.
 
 ## 4.3 Landing Page UI Design
 
@@ -451,6 +471,8 @@ Vamos a poder apreciar en orden las vistas que temenos para nuestra aplicacion w
 
 ### 4.4.2 Web Applications Wireflow Diagrams
 
+Link del Diagrama: https://lucid.app/lucidchart/bee9dab3-8ad7-4052-b2a5-45103aceb477/edit?viewport_loc=-10917%2C-39%2C16950%2C7385%2C0_0&invitationId=inv_a33e1efa-8ac6-4484-953a-0ee3016a92aa
+
 El usuario desea guardar su vehiculo, por ello decide reservar un estacionamiento de 3 estrellas por dos horas.
 
 ![reservarestacionamiento](reservarestacionamiento.png)
@@ -485,3 +507,61 @@ Link del Prototipo:
 https://www.figma.com/proto/yn2i6VlaRkAre4xpe1l3lw/Lading-page-Mock-Up?type=design&node-id=115-3&t=T2m2NcerhmpALgep-1&scaling=scale-down&page-id=115%3A2&starting-point-node-id=115%3A3&mode=design
 
 ![prototipo](prototipo.png)
+
+### 4.6. Domain-Driven Software Architecture.
+
+#### 4.6.1. Software Architecture Context Diagram.
+
+#### 4.6.2. Software Architecture Container Diagrams.
+
+#### 4.6.3. Software Architecture Components Diagrams.
+
+
+
+### 4.7. Software Object-Oriented Design.
+
+#### 4.7.1. Class Diagrams.
+
+#### 4.7.2. Class Dictionary.
+
+
+
+### 4.8. Database Design.
+
+#### 4.8.1. Database Diagram
+
+
+
+## Capítulo V: Product Implementation, Validation & Deployment.
+
+### 5.1. Software Configuration Management.
+
+#### 5.1.1. Software Development Environment Configuration.
+
+#### 5.1.2. Source Code Management.
+
+#### 5.1.3. Source Code Style Guide & Conventions.
+
+#### 5.1.4. Software Deployment Configuration.
+
+
+
+### 5.2. Landing Page, Services & Applications Implementation.
+
+#### 5.2.1. Sprint 1
+
+##### 5.2.1.1. Sprint Planning 1.
+
+##### 5.2.1.2. Sprint Backlog 1.
+
+##### 5.2.1.3. Development Evidence for Sprint Review.
+
+##### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+##### 5.2.1.5. Execution Evidence for Sprint Review.
+
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+##### 5.2.1.8. Team Collaboration Insights during Sprint.
