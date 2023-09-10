@@ -232,6 +232,8 @@ EL PRODUCTO:
 
 #### 2.2.2 Registro de entrevistas
 
+Link de las Entrevistas: https://youtu.be/TkNagEN1cBE
+
 |Conductor|         |
 |---------|---------|
 |Nombres y Apellidos| Reyner Chuquinaupa|
@@ -448,6 +450,14 @@ Vamos a poder apreciar en orden las vistas que temenos para nuestra aplicacion w
 ![map](map.png)
 
 ### 4.4.2 Web Applications Wireflow Diagrams
+
+El usuario desea guardar su vehiculo, por ello decide reservar un estacionamiento de 3 estrellas por dos horas.
+
+![reservarestacionamiento](reservarestacionamiento.png)
+
+El usuario desea ingresar a la aplicacion y ver el mapa donde se encuentran los estacionamientos.
+
+![vermapa](vermapa.png)
 
 ### 4.4.3 Web Applications Mockups
 
