@@ -1,4 +1,4 @@
-![image](https://github.com/Grupo1-Devworkers/MarkDown-Informe/assets/83480837/38c9a0d8-e139-47bc-8b9b-417acf9e522b)# Universidad Peruana de Ciencias Aplicadas
+# Universidad Peruana de Ciencias Aplicadas
 ## Curso: Aplicaciones OpenSource
 ## Sección: SW55
 ## TB1 - EasyParkNow
