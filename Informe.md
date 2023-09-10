@@ -415,8 +415,7 @@ Los Meta Tags son básicamente proveedores de información para el navegador que
 |Viewport| Para los usuarios que vayan a utilizar un móvil para abrir nuestra página, este tag es para mejorar su experiencia en su teléfono. |  |
 |Geo| Como dice en el nombre, es un tag de geolocalización. Este se divide en 3 secciones: Nombre del lugar, posición y región. |  |
 |Social Media Tags| Muy simple. Para que puedas compartir información en plataformas como por ejemplo Twitter. Creemos que tiene cierta relevancia en el trabajo pero no tanta.|  |
-|Site Verification| Este tag no es estrictamente necesario, ya que motores de búsqueda como Google o Yahoo! tienen otras maneras de mantener verificado tu sitio, sea a través de DNS, cuenta de Google
-Analytics, entre otros. Pero a veces alguna de estas opciones falla y es mejor tener un plan B.|  |
+|Site Verification| Este tag no es estrictamente necesario, ya que motores de búsqueda como Google o Yahoo! tienen otras maneras de mantener verificado tu sitio, sea a través de DNS, cuenta de Google Analytics, entre otros. Pero a veces alguna de estas opciones falla y es mejor tener un plan B.|  |
 
 
 #### 4.2.4. Searching Systems.
