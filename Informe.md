@@ -270,6 +270,13 @@ Link de las Entrevistas: https://youtu.be/TkNagEN1cBE
 |Distrito | Los Olivos |
 |En la entrevista, el señor Luis indica que le toma de 15 a 20 min encontrar un estacionamiento normalmente o hasta más depende al lugar al que vaya. Algunas veces cuando no encuentra un estacionamiento pronto, se ve obligado a seguir buscando por miedo a las multas y a la seguridad de su vehículo. También nos dice que considera que las tarifas no son las adecuadas, ya que muchos de los estacionamientos cobran por horas. Él menciona que el factor a tomar en cuenta al momento de escoger un estacionamiento es que este se encuentre cerca a su lugar de destino, lo otro es que cuente con una tarifa no tan alta y por último la seguridad, debido a que al ser un estacionamiento privado, este cuente con cámaras de seguridad. Finalmente, él menciona dos funciones que le ayudarían bastante a encontrar un estacionamiento ideal y son que muestre la ubicación exacta y que muestre la tarifa del estacionamiento. | ![entrevista2](Entrevista2Georgina.png)|
 
+|Conductor|         |
+|---------|---------|
+|Nombres y Apellidos| Angelo Guevara Nacimento|
+|Edad| 22|
+|Distrito | Santiago de Surco |
+|El entrevistado comienza presentándose, y contándonos un poco acerca que vive en Santiago de Surco, soltero como estado civil y ocupa la posición por ahora de estudiante. Como artefactos tecnológicos que tiene disponibles, por el lado de teléfono cuenta con un iPhone y un pc que tiene como sistema operativo, Windows. Además, nos menciona que sus motivaciones en la vida son su familia, sus amigos y su enamorada, mientras que una de sus mayores frustraciones es el tráfico actual que se vive en Lima.  Un rasgo de personalidad que considera que sus allegados ven de él sería persistente. El entrevistado nos comentó que le gusta utilizar como navegador web Opera, como canales comunicación WhatsApp, Instagram y Facebook, y una de sus marcas favoritas es BMW. Adicionalmente nos dijo que para él es importante saber la cercanía del lugar al que está yendo, que tan concurrente es, la reseña que tiene, etc. Por último, nos comentó que no está usando actualmente una aplicación que le ayude a encontrar un estacionamiento, y que se le facilitaría mucho si la aplicación tuviera la opción de pago automático por VISA o MASTERCARD. | ![entrevista3](Entrevista3Angelo.png)|
+
 |Dueño|         |
 |---------|---------|
 |Nombres y Apellidos| Edgar Ruiz Condor|
@@ -595,12 +602,75 @@ https://www.figma.com/proto/yn2i6VlaRkAre4xpe1l3lw/Lading-page-Mock-Up?type=desi
 
 #### 5.1.1. Software Development Environment Configuration.
 
+Tecnologías   Ruta de referencia
+
+Vertabelo     https://vertabelo.com 
+
+Miro          https://miro.com 
+
+Structurizr   https://www.structurizr.com 
+
+Github        https://github.com 
+
+WebStorm      https://www.jetbrains.com/webstorm/ 
+
+Trello        https://trello.com 
+
+
+Vertabelo: Una aplicación que facilita la creación de modelos de bases de datos mediante una interfaz gráfica. Además, puede generar automáticamente scripts de bases de datos basados en los diseños realizados.
+
+Structurizr: Una herramienta que permite diseñar diagramas siguiendo el enfoque C4, que incluye representaciones de Contexto, Contenedores y Componentes, lo que ayuda a visualizar la arquitectura de software de manera clara.
+
+Miro: es una plataforma en línea que ofrece una variedad de herramientas de colaboración visual diseñadas para facilitar el trabajo en equipo y la comunicación visual. La plataforma Miro se utiliza para una amplia gama de propósitos en diferentes contextos, como empresas, educación y proyectos de investigación.
+
+WebStorm: Un entorno de desarrollo de JetBrains que es versátil para trabajar con varios lenguajes de programación. Automatiza tareas repetitivas y simplifica la gestión de proyectos de desarrollo, haciendo que la programación sea más eficiente y agradable.
+
+GitHub: Una plataforma de control de versiones que facilita el trabajo colaborativo al permitir el alojamiento de código en repositorios. Se utiliza comúnmente con el flujo de trabajo Git Flow para gestionar y colaborar en proyectos de desarrollo de software.
+
+Trello: Una herramienta de gestión de tareas que se basa en la metodología Kanban. Es ideal para la planificación y coordinación de proyectos, permitiendo la organización de tareas en tableros visuales y colaborativos, lo que facilita el seguimiento y la asignación de actividades en un equipo de trabajo.
+
+
 #### 5.1.2. Source Code Management.
+
+Repositorios Github: https://github.com/Grupo1-Devworkers 
+
+Landing Page: https://grupo1-devworkers.github.io/LandingPage/ 
+
+Web Application: https://www.figma.com/file/yn2i6VlaRkAre4xpe1l3lw/Lading-page-Mock-Up?type=design&node-id=1%3A2&mode=design&t=ailZLyFWb2Xbu77N-1 
+
+Ramas principales y de desarrollo
+
+main: La rama principal, también conocida como "main", es donde se guarda el historial de publicación oficial del proyecto. En esta rama, se encuentra una versión abreviada del historial del proyecto.
+
 
 #### 5.1.3. Source Code Style Guide & Conventions.
 
+Para el desarrollo de nuestro proyecto, hemos establecido algunas convenciones y tecnologías específicas:
+
+Convenciones de Idioma:
+
+Se utiliza el español para explicar todos los aspectos del desarrollo de la aplicación.
+El inglés se utiliza exclusivamente para escribir el código del Frontend y Backend.
+
+Tecnologías Utilizadas:
+
+Las tecnologías que emplearemos en el desarrollo de los próximos Sprints son: Java, Spring, HTML, CSS y JavaScript.
+
+Herramientas:
+
+Las herramientas que utilizaremos son: IntelliJ IDEA para la programación en Java, GitHub y Git Flow para el control de versiones, Figma para el diseño de la interfaz, y WebStorm para el desarrollo de Frontend.
+Estas convenciones y elecciones tecnológicas ayudarán a mantener un enfoque coherente y eficiente en el desarrollo de nuestro proyecto.
+
+
 #### 5.1.4. Software Deployment Configuration.
 
+Para el despliegue de nuestro landing page, hemos utilizado las siguientes herramientas y plataformas:
+
+Control de versiones: Utilizamos Git para gestionar y controlar las versiones de nuestro proyecto.
+
+Almacenamiento del Proyecto: Github se ha empleado como plataforma para almacenar y gestionar todo nuestro proyecto.
+
+Comunicación: Mantenemos la comunicación del equipo a través de aplicaciones de mensajería como WhatsApp y Discord, utilizando canales de voz para llevar a cabo nuestras reuniones.
 
 
 ### 5.2. Landing Page, Services & Applications Implementation.
