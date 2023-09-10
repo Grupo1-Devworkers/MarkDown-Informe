@@ -603,7 +603,7 @@ https://www.figma.com/proto/yn2i6VlaRkAre4xpe1l3lw/Lading-page-Mock-Up?type=desi
 #### 5.1.1. Software Development Environment Configuration.
 
 |Tecnologías |  Ruta de referencia     |
-
+|------| --------|
 |Vertabelo  |   https://vertabelo.com     | 
 
 |Miro       |   https://miro.com      | 
