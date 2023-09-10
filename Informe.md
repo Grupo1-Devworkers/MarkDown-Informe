@@ -381,10 +381,10 @@ Esta sección se basa principalmente en la organización del contenido de la apl
 
 #### 4.2.1. Organization Systems.
 Para los sistemas de organización decidimos tomar en cuenta el contenido de Asimov, que cuenta con una forma jerárquica, encima de una organización secuencial, visual y matricial, además de los esquemas de organización alfabéticos, por tópicos, entre otros, según los usuarios.
-•  	Organización visual
+* **Organización visual**
 Esta cuenta con la forma jerárquica, que nos permite poderla implementar en la pantalla de inicio del usuario que desea alquilar, dándole gran importancia a las secciones de “Rentar un estacionamiento” y “Ver datos del estacionamiento” son de mayor importancia y por ende tiene una mayor jerarquía, siendo todo lo contrario para la sección de “Ver Historial de reservas”. Debido a este tipo de organización, se les da mayor importancia a las secciones más utilizadas por los usuarios.
 Otro ejemplo, cuando se despliega los datos de la persona que pone su estacionamiento en alquiler, se le va a dar mayor jerarquía a datos como “Reseñas” y “Precio del estacionamiento” debido al gran interés que tendrían los arrendadores cuando busquen un estacionamiento para usar. Por otro lado, datos como nombre de la persona y foto de la persona no se encontraría tan algo en la jerarquía organizacional.
-•  	Organización secuencial
+* **Organización secuencial**
 En el caso de secuencial se le añade el uso de campos para poder editar datos del usuario, para-Asimov ya que estos en el caso de la aplicación serán utilizados en la modificación de información personal del dueño y la creación de un nuevo estacionamiento para alquilar. Organización matricial
 Para la organización matricial se trata de incluir las listas de los estacionamientos más cercanos del usuario para que pueda elegir, así como mostrarle al usuario su historial de alquileres de estacionamiento.
 
@@ -397,11 +397,9 @@ Barra de navegación:
 |Etiqueta |Descripción de la etiqueta |
 |---------|---------------------------|
 |Todos los segmentos                  |
-|-------------------------------------|
 |Inicio| Sección que muestra contenido personalizado a cada tipo de usuario y es la primera vista que se obtiene una vez se autentique el usuario en la aplicación web. |
 |Mi perfil| Sección con los datos personales del usuario, incluye todo lo relacionado a la información del usuario.|
 |Dueños de estacionamientos y arrendadores |
-|------------------------------------------|
 |Mis espacios|Sección que muestra los espacios del estacionamiento en cuestión. |
 |Precios| Sección que muestra los precios por tamaño del vehículo a ingresar al local.|
 
@@ -409,10 +407,53 @@ Barra de navegación:
 #### 4.2.3. SEO Tags and Meta Tags
 Los Meta Tags son básicamente proveedores de información para el navegador que se encuentran en los archivos HTML de la página. A esta información se le llama “Metadata” y aunque no puede ser vista por el usuario, esta es de mucha ayuda para los motores de búsqueda y navegadores. Algunos de los más importantes y que consideramos son importantes para nuestro proyecto son, listadas de mas importante a menos importante:
 
+|Meta Data ID |Explicación |Ejemplo |
+|-------------|------------|--------|
+|Meta Content Type| Este tag es muy útil cuando quieres declarar los caracteres de tu página. De no usarlo puede tener un impacto negativo en el navegador. |<meta httpequiv="ContentType"
+content="text/html
+; charset=utf-
+8" />
+|
+|Title| El título es muy importante como título de por sí, pero además la información que le brinda al motor de búsqueda. Debera haber un tag de título diferente por página.| <head><title>Example Title</title></head> |
+|Meta Description| Este meta sirve para que los usuarios puedan encontrar la página mucho más rápido en el navegador, ya que será lo que les llame la atención para entrar a la página o no.| <head> <meta
+name="description" content="This is an example of a meta description. This will often show up in search results."> </head> |
+|Viewport| Para los usuarios que vayan a utilizar un móvil para abrir nuestra página, este tag es para mejorar su experiencia en su teléfono.| <meta name=viewport content="width=dev ice-width, initial-scale=1"> |
+|Geo| Como dice en el nombre, es un tag de geolocalización. Este se divide en 3 secciones: Nombre del lugar, posición y región. | <META
+NAME="geo.position
+"
+CONTENT="latitude; longitude">
+<META
+NAME="geo.placenam e" CONTENT="Place
+Name">
+<META
+NAME="geo.region"
+CONTENT="Country
+Subdivision Code">|
+|Social Media Tags| Muy simple. Para que puedas compartir información en plataformas como por ejemplo Twitter. Creemos que tiene cierta relevancia en el trabajo pero no tanta.|<meta name="twitter:card" content="summary"> |
+|Site Verification| Este tag no es estrictamente necesario, ya que motores de búsqueda como Google o Yahoo! tienen otras maneras de mantener verificado tu sitio, sea a través de DNS, cuenta de Google
+Analytics, entre otros. Pero a veces alguna de estas opciones falla y es mejor tener un plan B.| <meta
+name="verify-v1" content="uniquestring"> |
+
 
 #### 4.2.4. Searching Systems.
+Para esta sección, en la plataforma hemos decidido implementar dos tipos de sistemas de búsquedas (barra de búsqueda y filtros) en la pantalla de la aplicación.
+En primer lugar, tenemos el inicio de nuestro sitio web en la cual mostramos su organización jerárquica con anterioridad. Como esta pantalla principal abarca gran cantidad de información tendrá un
+filtro que la dividirá en tres secciones:
+# * Más recomendados
+# * Disponibles ahora
+# * Cerca de ti 
+En segundo lugar, se aplicará un sistema de búsqueda por texto para acceder a servicios que le interese al usuario. Asimismo, filtros para separar la información encontrada por el texto ingresado.
+Estos filtros serán divididos de la siguiente manera:
+# * Rango de precios de los estacionamientos
+# * Tipo de estacionamientos
+# * Características con las que cuenta el taller mecánico Finalmente, se implementarán filtros en el perfil de los talleres para separar sus características y servicios.
+# * Lavado de carro
+# * Servicio de Valet parking
+# * Venta de snacks
 
 #### 4.2.5. Navigation Systems.
+Para asegurar la mejor experiencia al usuario se planteó una jerarquía de la información clara y coherente. Es así como se plantea que el usuario tenga un esquema claro de la organización del sitio.
+En esta sección se considera una navegación estática que oriente al usuario en el sitio. Al ser estática el usuario siempre podrá retroceder teniendo en cuenta la navegación.
 
 ## 4.3 Landing Page UI Design
 
