@@ -397,9 +397,11 @@ Barra de navegación:
 |Etiqueta |Descripción de la etiqueta |
 |---------|---------------------------|
 |Todos los segmentos                  |
+|-------------------------------------|
 |Inicio| Sección que muestra contenido personalizado a cada tipo de usuario y es la primera vista que se obtiene una vez se autentique el usuario en la aplicación web. |
 |Mi perfil| Sección con los datos personales del usuario, incluye todo lo relacionado a la información del usuario.|
 |Dueños de estacionamientos y arrendadores |
+|------------------------------------------|
 |Mis espacios|Sección que muestra los espacios del estacionamiento en cuestión. |
 |Precios| Sección que muestra los precios por tamaño del vehículo a ingresar al local.|
 
