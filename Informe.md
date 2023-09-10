@@ -565,3 +565,29 @@ https://www.figma.com/proto/yn2i6VlaRkAre4xpe1l3lw/Lading-page-Mock-Up?type=desi
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+## Conclusiones
+
+El proyecto se creo con la intencion de ayudar a los usuarios que quieran encontrar un lugar de aparcamiento de forma rápida y cómoda mediante un teléfono móvil y reservala con un clic en la pantalla. Pensamos que era una idea muy interesante para implementar y aprender sobre las habilidades requeridas, los desafíos que implica implementar la aplicación, etc. A lo largo del proyecto, nuestras ideas se fueron afinando y la planificación se realizó teniendo en cuenta los desafíos que enfrentamos y las tareas que teníamos que resolver. 
+
+Descubrimos que agregar una sección al frente de la aplicación web para indicar cuántos espacios de estacionamiento hay disponibles era una idea que valía la pena seguir, ya que anima a los clientes a interactuar con la aplicación para descubrir de qué se trata.
+
+Además, creemos que mientras desarrollamos este proyecto, nos será de gran ayuda comprender cómo usar GitHub, sin mencionar el conocimiento de IDE, tecnologías de programación, colaboración en equipo y cómo construir un proyecto desde 0 hasta ahora. Hoy es el día. 
+
+## Anexos
+
+Link del wireframe:  https://www.figma.com/file/7iessZFgDK0qTkNEKUAi6n/Urban-Solution?type=design&node-id=0-1&mode=design&t=Nri1wYDLsdmHKZIv-0
+
+Link del Prototipo:
+https://www.figma.com/proto/yn2i6VlaRkAre4xpe1l3lw/Lading-page-Mock-Up?type=design&node-id=115-3&t=T2m2NcerhmpALgep-1&scaling=scale-down&page-id=115%3A2&starting-point-node-id=115%3A3&mode=design
+
+Link del Figma: https://www.figma.com/file/7iessZFgDK0qTkNEKUAi6n/Urban-Solution?type=design&node-id=40-2&mode=design&t=g0cqC2Mprtxp6ViH-0
+
+Link del Diagrama: https://lucid.app/lucidchart/bee9dab3-8ad7-4052-b2a5-45103aceb477/edit?viewport_loc=-10917%2C-39%2C16950%2C7385%2C0_0&invitationId=inv_a33e1efa-8ac6-4484-953a-0ee3016a92aa
+
+Link del Figma: https://www.figma.com/file/yn2i6VlaRkAre4xpe1l3lw/Lading-page-Mock-Up?type=design&node-id=89-2&mode=design&t=rJCC8AUzN5S9zP3q-0
+
+Link de las Entrevistas: https://youtu.be/TkNagEN1cBE
+
+Link MockUps:
+https://www.figma.com/file/yn2i6VlaRkAre4xpe1l3lw/Lading-page-Mock-Up?type=design&node-id=0-1&mode=design&t=QHjDmKEgct7u7P9A-0
