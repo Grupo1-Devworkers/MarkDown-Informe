@@ -23,7 +23,7 @@ Nuestra misión es brindar información sobre la ubicación de los aparcamientos
 |||
 |![oscar](oscar.jpeg) | Nombre: Oscar Sebastian Nicolas Moreno Carmona / Código: U201911522 / Carrera: Ingeniería de Software Me considero un chico comprometido con mejorar cada día y aportar mis conocimientos para poder brindar soluciones óptimas a los problemas que pueden haber en la actualidad, siempre teniendo en cuenta el impacto que tiene ambientalmente y también considerando los valores éticos con los cuales fui formado.|
 | | |
-| |Nombre: Onofre Ruiz Carlos Jesus / Código: U202115590 / Carrera: Ingeniería de Software Mi nombre es Carlos Jesus Onofre, tengo 19 años, estudio la carrera de Ingeniería de Software. Me considero una persona que cuenta con capacidades como el liderazgo en situaciones importantes, además del compromiso que tengo con los trabajos que se me presentan, de la misma forma soy una persona creativa con ideas que suman al equipo, asimismo mi actitud positiva hace que el proyecto no se vuelva tedioso para los integrantes de mi grupo|
+|![onofre](onofre.jpg)|Nombre: Onofre Ruiz Carlos Jesus / Código: U202115590 / Carrera: Ingeniería de Software Mi nombre es Carlos Jesus Onofre, tengo 19 años, estudio la carrera de Ingeniería de Software. Me considero una persona que cuenta con capacidades como el liderazgo en situaciones importantes, además del compromiso que tengo con los trabajos que se me presentan, de la misma forma soy una persona creativa con ideas que suman al equipo, asimismo mi actitud positiva hace que el proyecto no se vuelva tedioso para los integrantes de mi grupo|
 |||
 |![georgina](Georgina.jpeg) |Nombre: Georgina Lastra Trinidad / Código: U201822503 / Carrera: Ingeniería de Software Mi nombre es Georgina Lastra y estudio la carrera de Ingeniería de Software. Soy una persona perseverante, creativa y comprometida. Siempre dispuesta a aprender cosas nuevas. Con mis conocimientos puedo aportar positivamente en la elaboración de nuestro proyecto. Asimismo, compartir y escuchar ideas de mis compañeros de esta manera obtener un buen resultado.|
 | | |
@@ -263,8 +263,38 @@ EL PRODUCTO:
 |Distrito | Los Olivos |
 |En la entrevista, el señor Luis indica que le toma de 15 a 20 min encontrar un estacionamiento normalmente o hasta más depende al lugar al que vaya. Algunas veces cuando no encuentra un estacionamiento pronto, se ve obligado a seguir buscando por miedo a las multas y a la seguridad de su vehículo. También nos dice que considera que las tarifas no son las adecuadas, ya que muchos de los estacionamientos cobran por horas. Él menciona que el factor a tomar en cuenta al momento de escoger un estacionamiento es que este se encuentre cerca a su lugar de destino, lo otro es que cuente con una tarifa no tan alta y por último la seguridad, debido a que al ser un estacionamiento privado, este cuente con cámaras de seguridad. Finalmente, él menciona dos funciones que le ayudarían bastante a encontrar un estacionamiento ideal y son que muestre la ubicación exacta y que muestre la tarifa del estacionamiento. | ![entrevista2](Entrevista2Georgina.png)|
 
+|Dueño|         |
+|---------|---------|
+|Nombres y Apellidos| Edgar Ruiz Condor|
+|Edad| 55|
+|Distrito | Lima |
+|En la entrevista el señor Edgar nos brinda información de cómo administrar y llegar a su público en su estacionamiento de vehículos, su público prefiere sus servicios ya que se encuentra en el centro de lima cerca a los lugares concurridos. Le presentamos nuestra propuesta y nos dijo que sería una buena idea de esa manera podrá mostrar los beneficios y detalles como la seguridad que tiene su playa de estacionamiento, una de sus recomendaciones fue de que sea una aplicación sencilla y fácil de usar ya que él no tenía mucha experiencia con el uso de la tecnología. | ![entrevista_onofre](entrevista4.jpeg)|
 
+|Conductor |         |
+|---------|---------|
+|Nombres y Apellidos| Jaen Paul Onofre|
+|Edad| 26|
+|Distrito | Lima |
+|En la entrevista el señor Jaen Paul, que vendría ser un conductor diario ya que el trabaja y le queda a 1 hora de su hogar y en su empresa que trabaja no tienen un estacionamiento por ello el tiene que lidiar dia a dia para poder buscar un estacionamiento confiable que esté disponible 24/7. Le presentamos nuestra propuesta y nos dijo que sería muy útil ya que él es una persona ocupada y a veces suele buscar un estacionamiento a última hora, eso es lo que desea el de nuestro programa que sea sencilla y rápida para poder buscar un estacionamiento. Una cosa que nos dijo que podríamos mejorar sería que podríamos mejorar sería poder reservar espacios en los estacionamientos seleccionados para que cuando llegue no esté ocupado. | ![entrevista_onofre2](entrevistacarlos2.jpeg)|
+### 2.2.3 Analisis de Entrevistas
 
+![analisis_entrevista](analisis_entrevista.png)
+
+## 2.3 NeedFinding
+
+### 2.3.1 User Personas
+En esta parte crearemos los user persona para cada uno de los segmentos objetivos de nuestra Startup haciendo uso de las entrevistas que logramos recolectar, mostrando sus objetivos, motivaciones, frustraciones, entre otras cosas.
+
+User Persona: Conductor
+![userpersonaconductor](user1.png)
+
+User Persona: Dueño
+![userpersonaduenio](user2.png)
+
+### 2.3.2 User task Matrix
+A continuación, se está presentando el User Task Matrix con nuestros 3 segmentos objetivos, conductor, dueño de estacionamiento y arrendador privado, donde se determinará la frecuencia e importancia de las tareas que realiza cada uno en su vida normal y comparando entre segmentos.
+
+![taskmatrix](taskmatrix.png)
 
 ### 2.3.5 As-Is Scenario Mapping
 
@@ -330,4 +360,73 @@ identidad de la educación con esta fuente.
 
 ![style2](styleguidelinesletter.png)
 
+## 4.3 Landing Page UI Design
 
+### 4.3.1 Landing Page Wireframe
+
+Header: Acá se puede apreciar el header de la página, en donde hemos decidido usar un estilo bien simple y fácil de entender. Del lado derecho están los botones Log In y Sign Up, al medio los principales botones de la página como el About Us y los Plans, y por último en el extremo izquierdo nuestro logo.
+
+![header](header.png)
+
+Presentation: Acá se puede apreciar la presentation de la página. Toda la información de la página presentation se mostrará al medio, siendo el resto del espacio usado para mostrar datos o imágenes relevantes para la página.
+
+![presentation](presentation.png)
+
+EasyParkNow: Acá se puede apreciar el encabezado “EasyParkNow” de la página. Mismo concepto que la página presentation, mostrar el texto centrado en la página, y el resto de datos e imágenes en lo que sobra de la página. 
+
+![easyparknow](easyparknow.png)
+
+TestEasyParkNow: Acá se puede apreciar la sección de TestEasyParkNow de la página. Este sería el motor de reserva para que el usuario pueda reservar los estacionamientos que desee, una vez filtrada la búsqueda.
+
+![TestEasyParkNow](TestEasyParkNow.png)
+
+Plans: Acá se puede apreciar los 2 planes en forma de carta de EasyParkNow. Acá se mostrará los dos tipos de planes que ofrecemos, junto con los beneficios que traería cada una, y el costo de estos. 
+
+![Plans](Plans.png)
+
+AboutUs: Acá se puede apreciar nuestra presentación como integrantes del equipo de la página, cada uno mostrando nuestra foto, el nombre de cada uno junto con la carrera que han elegido estudiar.
+
+![AboutUs](AboutUs.png)
+
+Footer: Acá se puede ver el footer de la página, con otros botones como por ejemplo el About Us, los Plans, Presentation, y otros datos relevantes para la página. 
+
+![Footer](Footer.png)
+
+Link del wireframe:  https://www.figma.com/file/7iessZFgDK0qTkNEKUAi6n/Urban-Solution?type=design&node-id=0-1&mode=design&t=Nri1wYDLsdmHKZIv-0
+
+### 4.3.2 Landing Page Mock Up
+
+Header: Acá se puede apreciar el header de la página, en donde hemos decidido usar un estilo bien simple y fácil de entender. Del lado derecho están los botones Log In y Sign Up, al medio los principales botones de la página como el About Us y los Plans, y por último en el extremo izquierdo nuestro logo.
+
+![headermockup](headermockup.png)
+
+Presentation: Acá se puede apreciar la presentation de la página. Toda la información de la página presentation se mostrará al medio, siendo el resto del espacio usado para mostrar datos o imágenes relevantes para la página.
+
+![presentation](presentationmockup.png)
+
+EasyParkNow: Acá se puede apreciar el encabezado “EasyParkNow” de la página. Mismo concepto que la página presentation, mostrar el texto centrado en la página, y el resto de datos e imágenes en lo que sobra de la página.
+
+![easyparknowmockup](easyparknowmockup.png)
+
+TestEasyParkNow: Acá se puede apreciar la sección de TestEasyParkNow de la página. Este sería el motor de reserva para que el usuario pueda reservar los estacionamientos que desee, ya sea por distintos metodos de pago buscando previo a su salida.
+
+![TestEasyParkNowmockup](TestEasyParkNowmockup.png)
+
+Plans: Acá se puede apreciar los 2 planes en forma de carta de Freeplace. Acá se mostrará los dos tipos de planes que ofrecemos, junto con los beneficios que traería cada una, y el costo de estos. 
+
+![Plansmockup](Plansmockup.png)
+
+AboutUs: Acá se puede apreciar nuestra presentación como integrantes del equipo de la página, cada uno mostrando nuestra foto, el nombre de cada uno junto con la carrera que han elegido estudiar.
+
+![aboutUs](aboutusmockup.png)
+
+Footer: Acá se puede ver el footer de la página.
+
+![footermockup](footermockup.png)
+
+Link MockUps:
+https://www.figma.com/file/yn2i6VlaRkAre4xpe1l3lw/Lading-page-Mock-Up?type=design&node-id=0-1&mode=design&t=QHjDmKEgct7u7P9A-0
+
+## 4.4 Web Applications UX/UI Design
+
+###  4.4 Web Applications UX/UI Design
