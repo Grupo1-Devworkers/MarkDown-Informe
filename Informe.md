@@ -303,3 +303,31 @@ Segmento 1: Conductor
 Segmento 2: Dueño de estacionamiento
 
 ![impactmap2](impactmap2.png)
+
+## **Capítulo IV: Product Design**
+### 4.1 Style Guidelines
+#### 4.1.1 General Style Guidelines
+A continuación, se muestra la paleta de colores, iconos y tipografía que usamos para estandarizar los estilos de la aplicación web.
+El color escogido es el #D6FFB6, que es un color variado del verde. Se busca dar seguridad, confianza y por ser un color “productivo”. Luego tenemos al color negro #FFFFFF por ser prestigioso y clásico.
+
+![style1](Style Guidelines colors.png)
+
+La fuente primaria es “Montserrat”. Esta fue elegida para el texto, título y demás componentes que se utilizarán en el Landing Page. Su creadora es Julieta Ulanovsky. 
+
+![style2](style guidelines letter.png)
+
+Las fuentes que se utilizarán para el título y subtítulos de la aplicación es Inter, quien su autor es Rasmus Andersson.
+
+![style3](style guidelines.png)
+
+#### 4.1.1 Web Style Guidelines
+Escogimos el color #D6FFB6 una variedad del color verde para dar una identidad de confianza, seguridad y crecimiento, luego optamos por el color #FBF4BB para comunicar tranquilidad. Por último, el color negro #FFFFFF para crear contraste y pureza.
+
+![style1](Style Guidelines colors.png)
+
+La fuente “Montserrat” es la elegida para el texto, título y demás componentes que se utilizarán en el Landing Page. La diseñadora Julieta Ulanovsky es la persona que creó esta fuente, con el objetivo de rescatar la belleza urbana. Además, nos encaminamos en plasmar la
+identidad de la educación con esta fuente.
+
+![style2](style guidelines letter.png)
+
+
