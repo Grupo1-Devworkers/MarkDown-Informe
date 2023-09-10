@@ -410,14 +410,13 @@ Los Meta Tags son básicamente proveedores de información para el navegador que
 |Meta Data ID |Explicación |Ejemplo |
 |-------------|------------|--------|
 |Meta Content Type| Este tag es muy útil cuando quieres declarar los caracteres de tu página. De no usarlo puede tener un impacto negativo en el navegador. |<meta httpequiv="ContentType" content="text/html;charset=utf-8" />|
-|Title| El título es muy importante como título de por sí, pero además la información que le brinda al motor de búsqueda. Debera haber un tag de título diferente por página.|<head><title>Example Title</title><head> |
-|Meta Description| Este meta sirve para que los usuarios puedan encontrar la página mucho más rápido en el navegador, ya que será lo que les llame la atención para entrar a la página o no.| <head> <meta name="description" content="This is an example of a meta description. This will often show up in search results."> </head> |
-|Viewport| Para los usuarios que vayan a utilizar un móvil para abrir nuestra página, este tag es para mejorar su experiencia en su teléfono. |<meta name=viewport content="width=dev ice-width, initial-scale=1"> |
-|Geo| Como dice en el nombre, es un tag de geolocalización. Este se divide en 3 secciones: Nombre del lugar, posición y región. | <META
-NAME="geo.position "CONTENT="latitude; longitude"><META NAME="geo.placenam e" CONTENT="Place Name"> <META NAME="geo.region" CONTENT="Country Subdivision Code">|
-|Social Media Tags| Muy simple. Para que puedas compartir información en plataformas como por ejemplo Twitter. Creemos que tiene cierta relevancia en el trabajo pero no tanta.|<meta name="twitter:card" content="summary"> |
+|Title| El título es muy importante como título de por sí, pero además la información que le brinda al motor de búsqueda. Debera haber un tag de título diferente por página.|  |
+|Meta Description| Este meta sirve para que los usuarios puedan encontrar la página mucho más rápido en el navegador, ya que será lo que les llame la atención para entrar a la página o no.|  |
+|Viewport| Para los usuarios que vayan a utilizar un móvil para abrir nuestra página, este tag es para mejorar su experiencia en su teléfono. |  |
+|Geo| Como dice en el nombre, es un tag de geolocalización. Este se divide en 3 secciones: Nombre del lugar, posición y región. |  |
+|Social Media Tags| Muy simple. Para que puedas compartir información en plataformas como por ejemplo Twitter. Creemos que tiene cierta relevancia en el trabajo pero no tanta.|  |
 |Site Verification| Este tag no es estrictamente necesario, ya que motores de búsqueda como Google o Yahoo! tienen otras maneras de mantener verificado tu sitio, sea a través de DNS, cuenta de Google
-Analytics, entre otros. Pero a veces alguna de estas opciones falla y es mejor tener un plan B.| <meta name="verify-v1" content="uniquestring"> |
+Analytics, entre otros. Pero a veces alguna de estas opciones falla y es mejor tener un plan B.|  |
 
 
 #### 4.2.4. Searching Systems.
