@@ -9,6 +9,11 @@
 * Onofre Ruiz, Carlos - u202115590
 * Ortiz Fajardo. Tomas - u201910146
 
+| Criterio Específico | Acciones Realizadas | Conclusiones |
+|:-----:|:------:| :-------: |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Onofre Ruiz Carlos Jesus TB1: Realizar las entrevistas me ayudo a saber como puedo llegar a mi publico objetivo comunicando lo que queremos lograr con este proyecto. | TB1: En conclusión, para esta primera entrega del proyecto desarrollar las entrevistas hacia nuestro segmento objetivo nos ha permitido aumentar nuestras habilidades Comunicativas y reconocer realmente que es lo que busca el usuario de nuestra app. Además, estas entrevistas nos han mostrado que existe una opinión bien similar entre todos respecto al tráfico de Lima. |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Onofre Ruiz Carlos Jesus TB1: Realizar los wireframes y mock ups me permitio hacer realidad lo que queria mi publico haciendo pruebas dependiendo a sus necesidades tomando en cuenta las user history y las entrevistas. | TB1: En conclusión sobre la primera parte de este proyecto, el desarrollo de artefactos proporciona y crea contexto para nuestro proyecto. Nos permiten comunicar de una manera más optimizada y técnica sobre lo que queremos lograr dentro de nuestras ideas. Cada artefacto nos permitió comunicar de manera diferente lo que querían los entrevistados y lo que queríamos lograr con el producto final. |
+
 ## **Capítulo I: Introducción**
 ### 1.1 StartUp Profile
 #### 1.1.1 Descripción del StartUp
