@@ -613,9 +613,9 @@ https://www.figma.com/proto/yn2i6VlaRkAre4xpe1l3lw/Lading-page-Mock-Up?type=desi
 |Github    |    https://github.com     | 
 |------| --------|
 |WebStorm   |   https://www.jetbrains.com/webstorm/     | 
-|------| --------|
+
 |Trello    |    https://trello.com     | 
-|------| --------|
+
 
 Vertabelo: Una aplicación que facilita la creación de modelos de bases de datos mediante una interfaz gráfica. Además, puede generar automáticamente scripts de bases de datos basados en los diseños realizados.
 
