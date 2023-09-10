@@ -429,4 +429,40 @@ https://www.figma.com/file/yn2i6VlaRkAre4xpe1l3lw/Lading-page-Mock-Up?type=desig
 
 ## 4.4 Web Applications UX/UI Design
 
-###  4.4 Web Applications UX/UI Design
+### 4.4 Web Applications UX/UI Design
+
+Link del Figma: https://www.figma.com/file/7iessZFgDK0qTkNEKUAi6n/Urban-Solution?type=design&node-id=40-2&mode=design&t=g0cqC2Mprtxp6ViH-0
+
+Vamos a poder apreciar en orden las vistas que temenos para nuestra aplicacion web en formato Wireframes, primero la vista principal, luego el Log-In de nuestra aplicacion, la seccion de perfil, despues la vista de home y finalmente la vista de reservacion.
+
+![login](login.png)
+
+![register](register.png)
+
+![inicio](inicio.png)
+
+![reserva](reserva.png)
+
+![horas](horas.png)
+
+![map](map.png)
+
+### 4.4.2 Web Applications Wireflow Diagrams
+
+### 4.4.3 Web Applications Mockups
+
+Link del Figma: https://www.figma.com/file/yn2i6VlaRkAre4xpe1l3lw/Lading-page-Mock-Up?type=design&node-id=89-2&mode=design&t=rJCC8AUzN5S9zP3q-0
+
+Vamos a poder apreciar en orden las vistas que temenos para nuestra aplicacion web en formato prototipo, primero la vista del Log-In de nuestra aplicacion, la seccion de home, despues la vista de reservacion, la vista de registro y finalmente la vista de editar perfil.
+
+![loginmu](loginmu.png)
+
+![registermu](registermu.png)
+
+![iniciomu](iniciomu.png)
+
+![reservamu](reservamu.png)
+
+![horasmu](horasmu.png)
+
+![mapmu](mapmu.png)
