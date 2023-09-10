@@ -25,7 +25,7 @@ Nuestra misión es brindar información sobre la ubicación de los aparcamientos
 | | |
 | |Nombre: Onofre Ruiz Carlos Jesus / Código: U202115590 / Carrera: Ingeniería de Software Mi nombre es Carlos Jesus Onofre, tengo 19 años, estudio la carrera de Ingeniería de Software. Me considero una persona que cuenta con capacidades como el liderazgo en situaciones importantes, además del compromiso que tengo con los trabajos que se me presentan, de la misma forma soy una persona creativa con ideas que suman al equipo, asimismo mi actitud positiva hace que el proyecto no se vuelva tedioso para los integrantes de mi grupo|
 |||
-| |Nombre: Georgina Lastra Trinidad / Código: U201822503 / Carrera: Ingeniería de Software Mi nombre es Georgina Lastra y estudio la carrera de Ingeniería de Software. Soy una persona perseverante, creativa y comprometida. Siempre dispuesta a aprender cosas nuevas. Con mis conocimientos puedo aportar positivamente en la elaboración de nuestro proyecto. Asimismo, compartir y escuchar ideas de mis compañeros de esta manera obtener un buen resultado.|
+|![georgina](Georgina.jpeg) |Nombre: Georgina Lastra Trinidad / Código: U201822503 / Carrera: Ingeniería de Software Mi nombre es Georgina Lastra y estudio la carrera de Ingeniería de Software. Soy una persona perseverante, creativa y comprometida. Siempre dispuesta a aprender cosas nuevas. Con mis conocimientos puedo aportar positivamente en la elaboración de nuestro proyecto. Asimismo, compartir y escuchar ideas de mis compañeros de esta manera obtener un buen resultado.|
 | | |
 |![camila](camila.jpeg) | Nombre: Camila Conde Isla / Código: U202114309 / Carrera: Ingeniería de Software Soy estudiante de la carrera de Ingeniería de Software en la cual me encuentro cursando el quinto ciclo de la carrera. Mi motivación para seguir aprendiendo es llegar a crear y diseñar soluciones creativas y entender mejor la tecnología. Me considero una persona creativa, proactiva, tolerante, respetuosa y apasionada por lo que me gusta. Me comprometo a apoyar en el proceso para poder tener un proyecto final bien planteado para obtener una buena nota.|
 
@@ -246,6 +246,23 @@ EL PRODUCTO:
 |Edad| 48|
 |Distrito | San Miguel |
 |La señora Ericka nos comenta que lo más importante antes de vender o alquilar es la identificación del conductor y la placa del vehículo para evitar problemas. Considera que la tarifa debe ser más económica que los grandes estacionamientos incluyendo una tarifa por minutos, algo que no se considera en las empresas grandes. Dice que es importante poder incluir una función de reserva, publicar promociones por uso de estacionamiento | ![entrevista1](entrevista2.jpeg)|
+
+
+|Conductor|         |
+|---------|---------|
+|Nombres y Apellidos| Stewart Tapia Nieto|
+|Edad| 26|
+|Distrito | Los Olivos |
+|En la entrevista, el joven Stewart nos cuenta que el encontrar un estacionamiento cerca a su trabajo se ha vuelto un problema cotidiano. Debido a que le toma de 30 a 40 min encontrar uno. Él considera que la tarifa de algunos estacionamientos son elevados por la demanda del lugar. Para él lo primordial al momento de elegir un estacionamiento es la seguridad y que este cuente con un espacio lo suficientemente amplio para estacionar su vehículo. Finalmente, nos dice que para él sería importante que se mostraran las tarifas de los estacionamientos dentro de la aplicación. Asimismo, se muestren imágenes y valoraciones  del estacionamiento. | ![entrevista2](Entrevista 1 Georgina.jpeg)|
+
+
+|Conductor|         |
+|---------|---------|
+|Nombres y Apellidos| Luis Kano Soto|
+|Edad| 41|
+|Distrito | Los Olivos |
+|En la entrevista, el señor Luis indica que le toma de 15 a 20 min encontrar un estacionamiento normalmente o hasta más depende al lugar al que vaya. Algunas veces cuando no encuentra un estacionamiento pronto, se ve obligado a seguir buscando por miedo a las multas y a la seguridad de su vehículo. También nos dice que considera que las tarifas no son las adecuadas, ya que muchos de los estacionamientos cobran por horas. Él menciona que el factor a tomar en cuenta al momento de escoger un estacionamiento es que este se encuentre cerca a su lugar de destino, lo otro es que cuente con una tarifa no tan alta y por último la seguridad, debido a que al ser un estacionamiento privado, este cuente con cámaras de seguridad. Finalmente, él menciona dos funciones que le ayudarían bastante a encontrar un estacionamiento ideal y son que muestre la ubicación exacta y que muestre la tarifa del estacionamiento. | ![entrevista2](Entrevista 2 Georgina.jpeg)|
+
 
 
 
