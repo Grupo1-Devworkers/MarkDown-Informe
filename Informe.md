@@ -612,6 +612,7 @@ https://www.figma.com/proto/yn2i6VlaRkAre4xpe1l3lw/Lading-page-Mock-Up?type=desi
 |Trello    |    https://trello.com     | 
 
 
+
 Vertabelo: Una aplicación que facilita la creación de modelos de bases de datos mediante una interfaz gráfica. Además, puede generar automáticamente scripts de bases de datos basados en los diseños realizados.
 
 Structurizr: Una herramienta que permite diseñar diagramas siguiendo el enfoque C4, que incluye representaciones de Contexto, Contenedores y Componentes, lo que ayuda a visualizar la arquitectura de software de manera clara.
