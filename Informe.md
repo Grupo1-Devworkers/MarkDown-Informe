@@ -1,4 +1,4 @@
-# Universidad Peruana de Ciencias Aplicadas
+![image](https://github.com/Grupo1-Devworkers/MarkDown-Informe/assets/83480837/38c9a0d8-e139-47bc-8b9b-417acf9e522b)# Universidad Peruana de Ciencias Aplicadas
 ## Curso: Aplicaciones OpenSource
 ## Sección: SW55
 ## TB1 - EasyParkNow
@@ -613,9 +613,9 @@ https://www.figma.com/proto/yn2i6VlaRkAre4xpe1l3lw/Lading-page-Mock-Up?type=desi
 |Github    |    https://github.com     | 
 |------| --------|
 |WebStorm   |   https://www.jetbrains.com/webstorm/     | 
-
+|------| --------|
 |Trello    |    https://trello.com     | 
-
+|------| --------|
 
 Vertabelo: Una aplicación que facilita la creación de modelos de bases de datos mediante una interfaz gráfica. Además, puede generar automáticamente scripts de bases de datos basados en los diseños realizados.
 
