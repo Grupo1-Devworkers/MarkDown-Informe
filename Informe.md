@@ -376,12 +376,37 @@ identidad de la educación con esta fuente.
 ![style2](styleguidelinesletter.png)
 
 ### 4.2. Information Architecture.
+Esta sección se basa principalmente en la organización del contenido de la aplicación web y landing page de Mecanillama. A continuación, podemos ver los tópicos de Organization Systems, Labeling Systems, Searching Systems y Navigation Systems tomados en cuenta para la evaluación de la distribución del contenido.
+
 
 #### 4.2.1. Organization Systems.
+Para los sistemas de organización decidimos tomar en cuenta el contenido de Asimov, que cuenta con una forma jerárquica, encima de una organización secuencial, visual y matricial, además de los esquemas de organización alfabéticos, por tópicos, entre otros, según los usuarios.
+•  	Organización visual
+Esta cuenta con la forma jerárquica, que nos permite poderla implementar en la pantalla de inicio del usuario que desea alquilar, dándole gran importancia a las secciones de “Rentar un estacionamiento” y “Ver datos del estacionamiento” son de mayor importancia y por ende tiene una mayor jerarquía, siendo todo lo contrario para la sección de “Ver Historial de reservas”. Debido a este tipo de organización, se les da mayor importancia a las secciones más utilizadas por los usuarios.
+Otro ejemplo, cuando se despliega los datos de la persona que pone su estacionamiento en alquiler, se le va a dar mayor jerarquía a datos como “Reseñas” y “Precio del estacionamiento” debido al gran interés que tendrían los arrendadores cuando busquen un estacionamiento para usar. Por otro lado, datos como nombre de la persona y foto de la persona no se encontraría tan algo en la jerarquía organizacional.
+•  	Organización secuencial
+En el caso de secuencial se le añade el uso de campos para poder editar datos del usuario, para-Asimov ya que estos en el caso de la aplicación serán utilizados en la modificación de información personal del dueño y la creación de un nuevo estacionamiento para alquilar. Organización matricial
+Para la organización matricial se trata de incluir las listas de los estacionamientos más cercanos del usuario para que pueda elegir, así como mostrarle al usuario su historial de alquileres de estacionamiento.
+
 
 #### 4.2.2. Labeling Systems.
+El sistema de etiquetado en nuestra aplicación utilizará un lenguaje sencillo y sencillo con el fin de que los usuarios puedan identificar rápidamente lo que desean hacer sin problema alguno.
+
+Barra de navegación:
+
+|Etiqueta |Descripción de la etiqueta |
+|---------|---------------------------|
+|Todos los segmentos                  |
+|Inicio| Sección que muestra contenido personalizado a cada tipo de usuario y es la primera vista que se obtiene una vez se autentique el usuario en la aplicación web. |
+|Mi perfil| Sección con los datos personales del usuario, incluye todo lo relacionado a la información del usuario.|
+|Dueños de estacionamientos y arrendadores |
+|Mis espacios|Sección que muestra los espacios del estacionamiento en cuestión. |
+|Precios| Sección que muestra los precios por tamaño del vehículo a ingresar al local.|
+
 
 #### 4.2.3. SEO Tags and Meta Tags
+Los Meta Tags son básicamente proveedores de información para el navegador que se encuentran en los archivos HTML de la página. A esta información se le llama “Metadata” y aunque no puede ser vista por el usuario, esta es de mucha ayuda para los motores de búsqueda y navegadores. Algunos de los más importantes y que consideramos son importantes para nuestro proyecto son, listadas de mas importante a menos importante:
+
 
 #### 4.2.4. Searching Systems.
 
