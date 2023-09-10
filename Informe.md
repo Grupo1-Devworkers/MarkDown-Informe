@@ -253,7 +253,7 @@ EL PRODUCTO:
 |Nombres y Apellidos| Stewart Tapia Nieto|
 |Edad| 26|
 |Distrito | Los Olivos |
-|En la entrevista, el joven Stewart nos cuenta que el encontrar un estacionamiento cerca a su trabajo se ha vuelto un problema cotidiano. Debido a que le toma de 30 a 40 min encontrar uno. Él considera que la tarifa de algunos estacionamientos son elevados por la demanda del lugar. Para él lo primordial al momento de elegir un estacionamiento es la seguridad y que este cuente con un espacio lo suficientemente amplio para estacionar su vehículo. Finalmente, nos dice que para él sería importante que se mostraran las tarifas de los estacionamientos dentro de la aplicación. Asimismo, se muestren imágenes y valoraciones  del estacionamiento. | ![entrevista2](Entrevista 1 Georgina.jpeg)|
+|En la entrevista, el joven Stewart nos cuenta que el encontrar un estacionamiento cerca a su trabajo se ha vuelto un problema cotidiano. Debido a que le toma de 30 a 40 min encontrar uno. Él considera que la tarifa de algunos estacionamientos son elevados por la demanda del lugar. Para él lo primordial al momento de elegir un estacionamiento es la seguridad y que este cuente con un espacio lo suficientemente amplio para estacionar su vehículo. Finalmente, nos dice que para él sería importante que se mostraran las tarifas de los estacionamientos dentro de la aplicación. Asimismo, se muestren imágenes y valoraciones  del estacionamiento. | ![entrevista2](Entrevista1Georgina.jpeg)|
 
 
 |Conductor|         |
@@ -261,7 +261,7 @@ EL PRODUCTO:
 |Nombres y Apellidos| Luis Kano Soto|
 |Edad| 41|
 |Distrito | Los Olivos |
-|En la entrevista, el señor Luis indica que le toma de 15 a 20 min encontrar un estacionamiento normalmente o hasta más depende al lugar al que vaya. Algunas veces cuando no encuentra un estacionamiento pronto, se ve obligado a seguir buscando por miedo a las multas y a la seguridad de su vehículo. También nos dice que considera que las tarifas no son las adecuadas, ya que muchos de los estacionamientos cobran por horas. Él menciona que el factor a tomar en cuenta al momento de escoger un estacionamiento es que este se encuentre cerca a su lugar de destino, lo otro es que cuente con una tarifa no tan alta y por último la seguridad, debido a que al ser un estacionamiento privado, este cuente con cámaras de seguridad. Finalmente, él menciona dos funciones que le ayudarían bastante a encontrar un estacionamiento ideal y son que muestre la ubicación exacta y que muestre la tarifa del estacionamiento. | ![entrevista2](Entrevista 2 Georgina.jpeg)|
+|En la entrevista, el señor Luis indica que le toma de 15 a 20 min encontrar un estacionamiento normalmente o hasta más depende al lugar al que vaya. Algunas veces cuando no encuentra un estacionamiento pronto, se ve obligado a seguir buscando por miedo a las multas y a la seguridad de su vehículo. También nos dice que considera que las tarifas no son las adecuadas, ya que muchos de los estacionamientos cobran por horas. Él menciona que el factor a tomar en cuenta al momento de escoger un estacionamiento es que este se encuentre cerca a su lugar de destino, lo otro es que cuente con una tarifa no tan alta y por último la seguridad, debido a que al ser un estacionamiento privado, este cuente con cámaras de seguridad. Finalmente, él menciona dos funciones que le ayudarían bastante a encontrar un estacionamiento ideal y son que muestre la ubicación exacta y que muestre la tarifa del estacionamiento. | ![entrevista2](Entrevista2Georgina.jpeg)|
 
 
 
