@@ -612,6 +612,8 @@ Vamos a poder apreciar en orden las vistas que temenos para nuestra aplicacion w
 ![mapmu](mapmu.png)
 
 ### 4.4.4 Web Applications User Flow Diagrams
+Enlace a los diagramas en LucidChart: https://lucid.app/lucidchart/3cd55523-85a2-4d75-92db-4cb6cde0a9eb/edit?viewport_loc=-3265%2C-1191%2C8154%2C3842%2C0_0&invitationId=inv_bd3bd3ae-0064-4447-b004-2c97c96c289b
+![userflow](userflow.png)
 
 ### 4.5 Web Applications Prototyping
 
