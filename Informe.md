@@ -11,8 +11,8 @@
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |:-----:|:------:| :-------: |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Onofre Ruiz Carlos Jesus TB1: Realizar las entrevistas me ayudo a saber como puedo llegar a mi publico objetivo comunicando lo que queremos lograr con este proyecto. | TB1: En conclusión, para esta primera entrega del proyecto desarrollar las entrevistas hacia nuestro segmento objetivo nos ha permitido aumentar nuestras habilidades Comunicativas y reconocer realmente que es lo que busca el usuario de nuestra app. Además, estas entrevistas nos han mostrado que existe una opinión bien similar entre todos respecto al tráfico de Lima. |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Onofre Ruiz Carlos Jesus TB1: Realizar los wireframes y mock ups me permitio hacer realidad lo que queria mi publico haciendo pruebas dependiendo a sus necesidades tomando en cuenta las user history y las entrevistas. | TB1: En conclusión sobre la primera parte de este proyecto, el desarrollo de artefactos proporciona y crea contexto para nuestro proyecto. Nos permiten comunicar de una manera más optimizada y técnica sobre lo que queremos lograr dentro de nuestras ideas. Cada artefacto nos permitió comunicar de manera diferente lo que querían los entrevistados y lo que queríamos lograr con el producto final. |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Onofre Ruiz Carlos Jesus TB1: Realizar las entrevistas me ayudo a saber como puedo llegar a mi publico objetivo comunicando lo que queremos lograr con este proyecto. /  Camila Conde Isla - TB1: Se realizó el User Journey Mapping, Empathy donde se pudo organizar mejor las necesidades de los usuarios al igual que en As-Is y To-be Mapping. Con la documentación de los sprints se tiene una revisión general de todo lo que se realizó y sus resultados, también se ve la eficiencia del grupo. / Ortiz Fajardo, Tomás-TB1: El desarrollo de una entrevista al segmento objetivo “conductor” junto con la exposición grabada me permitió mejorar mi habilidad comunicativa tanto con nuestros entrevistados como la idea de proyecto al ser grabada. / Lastra Trinidad, Georgina - TB1: Se realizó el Lean UX Canvas para conocer mejor la necesidad del cliente y como se puede satisfacer mejor esta. Se realizó el análisis competitivo. Asimismo, dos entrevistas del segmento “Conductores” | TB1: En conclusión, para esta primera entrega del proyecto desarrollar las entrevistas hacia nuestro segmento objetivo nos ha permitido aumentar nuestras habilidades Comunicativas y reconocer realmente que es lo que busca el usuario de nuestra app. Además, estas entrevistas nos han mostrado que existe una opinión bien similar entre todos respecto al tráfico de Lima. |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Onofre Ruiz Carlos Jesus TB1: Realizar los wireframes y mock ups me permitio hacer realidad lo que queria mi publico haciendo pruebas dependiendo a sus necesidades tomando en cuenta las user history y las entrevistas. / Camila Conde TB1: Hacer el Mapping de los dos egmentos objetivos nos permitió organizarnos mejor.| TB1: En conclusión sobre la primera parte de este proyecto, el desarrollo de artefactos proporciona y crea contexto para nuestro proyecto. Nos permiten comunicar de una manera más optimizada y técnica sobre lo que queremos lograr dentro de nuestras ideas. Cada artefacto nos permitió comunicar de manera diferente lo que querían los entrevistados y lo que queríamos lograr con el producto final. |
 
 ## **Capítulo I: Introducción**
 ### 1.1 StartUp Profile
@@ -309,6 +309,21 @@ User Persona: Dueño
 A continuación, se está presentando el User Task Matrix con nuestros 3 segmentos objetivos, conductor, dueño de estacionamiento y arrendador privado, donde se determinará la frecuencia e importancia de las tareas que realiza cada uno en su vida normal y comparando entre segmentos.
 
 ![taskmatrix](taskmatrix.png)
+### 2.3.3 User Journey Mapping 
+En esta sección vemos el recorrido del usuario con las ventajas y desventajas de usar y no usar la aplicación ya sea conductor o dueño de un estacionamiento.
+
+![userjourney](journal.jpeg)
+
+### 2.3.4 Empathy Mapping
+
+Segmento 1: Conductor
+
+![emapthy1](empathyconductor.jpeg)
+
+Segmento 2: Dueño de estacionamiento
+
+![empathy2](empathy.jpeg)
+
 
 ### 2.3.5 As-Is Scenario Mapping
 
@@ -323,7 +338,12 @@ Segmento 2: Dueño de estacionamiento
 ## Capítulo III: Requirements Specification
 
 ### 3.1. To-Be Scenario Mapping.
+Segmento 1: Conductor
 
+![tobe1](tobeconductor.jpeg)
+Segmento 2: Dueño de estacionamiento
+
+![tobe2](tobe.jpeg)
 ### 3.2. User Stories
 
 |Epic/User Story|Título|Descripción|Criterio de aceptación|Relacionado (EPIC ID)|
@@ -672,22 +692,71 @@ Comunicación: Mantenemos la comunicación del equipo a través de aplicaciones 
 ### 5.2. Landing Page, Services & Applications Implementation.
 
 #### 5.2.1. Sprint 1
+##### 5.2.1.1. Sprint Planning 1
 
-##### 5.2.1.1. Sprint Planning 1.
+| Sprint# | 1 |
+| ------|----- |
+|Sprint Planning Background|        |
+|Date | 2023-09-06 |
+|Time | 14:00 pm   |
+|Location | Virtual (Reunión por Google Meet) |
+|Prepared By | Camila Conde |
+|Attendees (to planning meeting) | Camila Conde / Oscar Moreno / Georgina Latra / Carlos Onofre / Tomas Ortiz |
+| Sprint n-1 Review Summary | No hubo Sprint anterior |
+| Sprint n-1 Retrospective Summary | No hubo Sprint anterior |
+|Sprint Goal & User Stories |    |
+|Sprint 1 Goal | Diseñar y desarrollar el landing page según el estilo y la arquitectura planteada anteriormente, desplegarlo y por último identificar y complicar con las especificaciones de los user story en el sprint backlog. |
+| Sprint 1 Velocity | Los story points serán de 20 puntos |
+| Sum Of Story Points | 20 |
 
-##### 5.2.1.2. Sprint Backlog 1.
+##### 5.2.1.2. Sprint Backlog 1
+
+![trello](trello.jpeg)
+
+trello:https://trello.com/invite/b/RGgzy5n6/ATTIed0ef7e06594ce844f1c803575a79c7516BB12CF/sprint-1 
+
+|Sprint # | 1 | | | | | |
+|-------|------|----|--- |--- |--- | ---|
+|User Story |   | Work-Item / Task | | | | | |
+|Id |  Title    | Id | Title | Description | Estimation (Hours) | Assigned To | Status |
+|  |  | 01 | Visualizar About Us | Visualizar una pequeña descripción del startup y del producto en el landing. | 1h | Carlos y Georgina | In-Process |
+|US01| Vista Landing Page | 02 | Formulario de Contáctanos | Rellenar formulario de contacto sobre cualquier inconveniente o duda | 1h | Camila | Done |
+| | | 03 | Visualizar Landing Page | Landing Page se visualiza terminado en el navegador | 5h | Todos | Done |
+| | | 04 | En el inicio se da lo opción de Sign In o Sign Up | En el inicio se da lo opción de Sign In o Sign Up | 1h | Camila | Done |
+| | | 05 | General Style Guidelines | Diseño de Landing Page | 2h| Carlos y Georgina | Done |
+|US02 | Landing Page: Diseño | 06 | Mockups | Vista al Diseño de Landing Page aplicado| 2H |Carlos | Done |
+| | | 07 | Wireframes | Estructura del Landing Page | 2h | Georgina | To-do |
+| | | 08 | Wireflow | Guía de simulación de uso | 1h | Tomás | Done |
+|US03 | Arquitectura del producto | 09 | Base de datos y sus relaciones entre ellas | Definición de atributos y clases | 4h | Todos |
+| | | 10 | C4 Model | Diagramas de Contexto, Arquitectura y Componentes | 2h | Oscar y Tomás | To-do |
+
+
 
 ##### 5.2.1.3. Development Evidence for Sprint Review.
 
-##### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+| Repository | Branch | Commit Id | Commit messages | Commit Messages Body| Commit On (Date) |
+|---|----|-------|------|----|----|
+|  | main | e4bc87b2e26c714e950ff1960a7a1420d244634e | primera version | primera version | 1/09/2023 |
+|https://github.com/Grupo1-Devworkers/LandingPage.git | main| ad922aac0a655c3c933230357bc10313d16db5ab | style1 | style1 |
+| | main| e4bc87b | final | final |
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review.
 
-##### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+En esta sección se representa el desarrollo y despliegue de nuestro landing page donde se encuentran las secciones más importantes para presentar la aplicación.
 
-##### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+![landing1](landing1.jpeg)
+
+![landing2](landing2.jpeg)
+
+![landing3](landing3.jpeg)
+
+![landing4](landing4.jpeg)
+
+![landing5](landing5.jpeg)
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Aquí se evidencia el avance que cada integrante hizo a lo largo del sprint desde el landing page hasta el desarrollo de una de sus secciones en el formato Markdown.
 
 ## Conclusiones
 
