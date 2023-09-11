@@ -290,6 +290,14 @@ Link de las Entrevistas: https://youtu.be/TkNagEN1cBE
 |Edad| 26|
 |Distrito | Lima |
 |En la entrevista el señor Jaen Paul, que vendría ser un conductor diario ya que el trabaja y le queda a 1 hora de su hogar y en su empresa que trabaja no tienen un estacionamiento por ello el tiene que lidiar dia a dia para poder buscar un estacionamiento confiable que esté disponible 24/7. Le presentamos nuestra propuesta y nos dijo que sería muy útil ya que él es una persona ocupada y a veces suele buscar un estacionamiento a última hora, eso es lo que desea el de nuestro programa que sea sencilla y rápida para poder buscar un estacionamiento. Una cosa que nos dijo que podríamos mejorar sería que podríamos mejorar sería poder reservar espacios en los estacionamientos seleccionados para que cuando llegue no esté ocupado. | ![entrevista_onofre2](entrevistacarlos2.jpeg)|
+
+|Conductor |         |
+|---------|---------|
+|Nombres y Apellidos| Victor Vieira Capdevila|
+|Edad| 25|
+|Distrito | Lima |
+|Victor nos comenta que al momento de conducir su carro, tiene dificultades para encontrar estacionamientos. Además, cree que dejar el vehículo estacionado en la calle puede ser peligroso ya que podría pasarle algo a su carro. Por ello, opina que una aplicación en la cual pueda ubicar estacionamientos más cercanos y hacer su reserva le vendría muy bien. Además, sería más fácil si pudiese pagar con tarjeta de crédito. | ![entrevistavictor](entrevistavictor.png)|
+
 ### 2.2.3 Analisis de Entrevistas
 
 ![analisis_entrevista](analisis_entrevista.png)
@@ -355,6 +363,26 @@ Segmento 2: Dueño de estacionamiento
 ![impactmap2](impactmap2.png)
 
 ### 3.4. Product Backlog
+
+|Usuario|User Story|Título|Declaración|Story points|
+|-|-|-|-|-|
+|Conductor|US01|Realizar un alquiler de un estacionamiento cercano|Como usuario deseo poder realizar una reserva de estacionamiento rápido y que esté más cercano a mi ubicación|8|
+|Conductor|US02|Realizar un alquiler específico|Como usuario deseo realizar una reserva de un estacionamiento específico de mi preferencia|8|
+|Conductor|US14|Recibir comprobante de pago|Como usuario deseo recibir un comprobante de pago al haber usado el servicio.|5|
+|Conductor/Dueño|US03|Registro de cuenta|Como usuario deseo registrar mi cuenta en la plataforma|8|
+|Conductor/Dueño|US04|Iniciar sesión|Como usuario deseo iniciar sesión en la plataforma para poder hacer uso de los servicios|8|
+|Conductor/Dueño|US05|Editar datos del perfil|Como usuario deseo poder editar los datos de mi perfi|3|
+|Conductor|US06|Ver la calificación de un estacionamiento|Como usuario deseo ver la calificación de un estacionamiento|5|
+|Dueño|US07|Establecer detalles de estacionamiento|Como usuario dueño deseo poner los datos de mi estacionamiento|5|
+|Dueño|US08|Ver los comentarios de un estacionamiento|Como usuario dueño deseo ver los comentarios que hay sobre mi estacionamiento|5|
+|Conductor|US09|Ver los comentarios de un estacionamiento(Conductor)|Como usuario quiero ver las reseñas que hay sobre un estacionamiento|5|
+|Conductor|US10|Cargar datos de mi vehículo|Como usuario quiero subir los datos de mi vehículo a la plataforma|5|
+|Conductor|US11|Ingresar datos de pago|Como usuario deseo subir los detalles de pago (Tarjeta)|8|
+|Conductor|US12|Reprogramar cita|Como usuario deseo poder hacer reprogramación de reserva|5|
+|Conductor/Dueño|US13|Multi idiomas|Como usuario deseo poder cambiar el idioma de la plataforma |3|
+|Conductor|US15|Cancelar Cita|Como usuario deseo poder hacer la cancelación de una reserva|5|
+
+
 
 ## **Capítulo IV: Product Design**
 ### 4.1 Style Guidelines
@@ -574,26 +602,197 @@ https://www.figma.com/proto/yn2i6VlaRkAre4xpe1l3lw/Lading-page-Mock-Up?type=desi
 
 ### 4.6. Domain-Driven Software Architecture.
 
+
+
 #### 4.6.1. Software Architecture Context Diagram.
+
+![c4model1](c4model1.png)
 
 #### 4.6.2. Software Architecture Container Diagrams.
 
+![c4model2](c4model2.png)
+
 #### 4.6.3. Software Architecture Components Diagrams.
 
-
+![c4model3](c4model3.png)
 
 ### 4.7. Software Object-Oriented Design.
 
+
 #### 4.7.1. Class Diagrams.
+
+![classdriagram](classdiagram.png)
 
 #### 4.7.2. Class Dictionary.
 
-
+|N|Entidad|Atributos|Definición|Tipo de dato|
+|-|-|-|-|-|
+|1|Car|id <br> carModel <br> vehicleRegistration <br> driver|id<br>modelo del vehículo<br>Matrícula del vehículo<br>Conductor|int<br>string<br>string<br>class|
+|2|FilteredParking|FilterType<br>parking<br>reviewCod|Tipo de filtro<br>estacionamiento<br>codigo de reseña|String<br>class<br>int|
+|3|Driver|name<br>age<br>license<br>phone|Nombre del conductor<br>edad del conductor<br>Licencia del conductor<br>Número celular del conductor|string<br>int<br>string<br>string|
+|4|RecomendParking|driver<br>location<br>message|conductor<br>direccion de estacionamiento<br>mmensaje de recomendación|Class<br>String<br>String|
+|5|Review|starQuantity<br>publicationDate<br>driver<br>messages|Cantidad de estrellas otorgadas<br>Fecha de publicación<br>Conductor<br>Mensaje de reseña|Int<br>date<br>Class<br>String|
+|6|RegistrationReserve|driver<br>car<br>owner<br>parking<br>startReservation<br>endReservation|Conductor<br>Vehículo<br>Dueño del estacionamiento<br>estacionamiento<br>hora de comienzo de reserva<br>hora de fin de reserva|class<br>class<br>class<br>class<br>string<br>string|
+|7|Rent|driver<br>owner<br>paymentType<br>amount|Conductor<br>Dueño de estacionamiento<br>Tipo de pago<br>Cantidad pagada|Class<br>Class<br>string<br>double|
+|8|Parking|costPerHour<br>address<br>spaces|Costo por hora del estacionamiento<br>Dirección del estacionamiento<br>Cantidad de espacios total|Double<br>String<br>Int|
+|9|Parking Hour|date<br>parking<br>openingTime<br>closingTime|Date<br>Class<br>string<br>string|
+|10|Owner|name<br>age<br>phone|Nombre del dueño del estacionamiento<br>Edad del dueño de estacionamiento<br>Número telefónico del dueño del estacionamiento|String<br>Int<br>String|
 
 ### 4.8. Database Design.
 
+Tabla Estacionamiento
+
+|Column name|Type|Properties|Description|
+|-|-|-|-|
+|id_estacionamiento|int|PK|-|
+|costoXhora_estacionamiento|float(100)|-|-|
+|direccion_estacionamiento|varchar(100)|-|-|
+|cupos_estacionamiento|int|-|-|
+
+Tabla dueño
+
+|Column name|Type|Properties|Description|
+|-|-|-|-|
+|id_duenio|int|PK|-|
+|nombre_duenio|varchar(100)|-|-|
+|edad_duenio|int|-|-|
+|telefono_duenio|varchar(9)|-|-|
+|Estacionamiento_id_estacionamiento|int|-|-|
+
+Tabla registro_horario
+
+|Column name|Type|Properties|Description|
+|-|-|-|-|
+|id_registro_horario|int|PK|-|
+|id_estacionamiento|int|-|-|
+|fecha|date|-|-|
+|duenio_id_duenio|int|-|-|
+
+Tabla horario_estacionamiento
+
+|Column name|Type|Properties|Description|
+|-|-|-|-|
+|id_estacionamiento|int|PK|-|
+|fecha|date|-|-|
+|apertura_estacionamiento|datetime|-|-|
+|cierre_estacionamiento|datetime|-|-|
+|Estacionamiento_id_estacionamiento|-|-|
+
+Tabla historial ingresos_estacionamiento
+
+|Column name|Type|Properties|Description|
+|-|-|-|-|
+|id_registro_reserva|int|PK|-|
+|Estacionamiento_id_estacionamiento|int|-|-|
+|ingresos_id_ingreso|int|-|-|
+
+Tabla ingresos
+
+|Column name|Type|Properties|Description|
+|-|-|-|-|
+|id_ingreso|int|PK|-|
+|id_estacionamiento|int|-|-|
+|fecha|datetime|-|-|
+|monto|float(100)|-|-|
+
+Tabla registro_reserva_cupo
+
+|Column name|Type|Properties|Description|
+|-|-|-|-|
+|id_registro_reserva|int|PK|-|
+|id_conductor|int|-|-|
+|id_auto|int|-|-|
+|id_duenio|int|-|-|
+|id_estacionamiento|int|-|-|
+|inicio_reserva|datetime|-|-|
+|fin_reserva|datetime|-|-|
+|costo_reserva|float(100)|-|-|
+|historial_ingresos_estacionamiento_id_registro_reserva|int|-|-|
+
+Tabla alquileres
+
+|Column name|Type|Properties|Description|
+|-|-|-|-|
+|id_alquiler|int|PK|-|
+|id_conductor|int|-|-|
+|id_duenio|int|-|-|
+|tipo_pago|varchar(100)|-|-|
+|monto|float(100)|-|-|
+|conductor_id_conductor|int|-|-|
+
+Tabla conductor
+
+|Column name|Type|Properties|Description|
+|-|-|-|-|
+|id_conductor|int|PK|-|
+|nombre_conductor|varchar(100)|-|-|
+|edad_conductor|int|-|-|
+|licencia_conductor|image|-|-|
+|telefono_conductor|varchar(9)|-|-|
+|id_historial|int|-|-|
+|registro_reserva_cupo_id_registro_reserva|int|-|-|
+
+Tabla auto
+
+|Column name|Type|Properties|Description|
+|-|-|-|-|
+|id_auto|int|PK|-|
+|modelo_auto|varchar(50)|-|-|
+|placa_auto|varchar(6)|-|-|
+|conductor_id_conductor|int|-|-|
+
+Tabla reclamo
+
+|Column name|Type|Properties|Description|
+|-|-|-|-|
+|id_reclamo|int|PK|-|
+|id_conductor|int|-|-|
+|mensaje|varchar(300)|-|-|
+|conductor_id_conductor|int|-|-|
+
+Tabla filtrado_estacionamiento
+
+|Column name|Type|Properties|Description|
+|-|-|-|-|
+|id_registro_filtro|int|PK|-|
+|tipo_filtro|varchar(100)|-|-|
+|id_estacionamiento|int|-|-|
+|id_resenia|int|-|-|
+|conductor_id_conductor|int|-|-|
+
+Tabla recomendar_estacionamiento
+
+|Column name|Type|Properties|Description|
+|-|-|-|-|
+|id_nuevo_estacionamiento|int|PK|-|
+|id_conductor|int|-|-|
+|ubicacion|varchar(100)|-|-|
+|mensaje|varchar(300)|-|-|
+|conductor_id_conductor|int|-|-|
+
+Tabla resenia
+
+|Column name|Type|Properties|Description|
+|-|-|-|-|
+|id_resenia|int|PK|-|
+|cant_estrellas|float(5)|-|-|
+|fecha_publicacion|date|-|-|
+|id_conductor|int|-|-|
+|mensaje|varchar(300)|-|-|
+|conductor_id_conductor|int|-|-|
+
+Tabla historial_registro_conductor
+
+|Column name|Type|Properties|Description|
+|-|-|-|-|
+|id_registro_reserva|int|PK|-|
+|id_conductor|int|-|-|
+|conductor_id_conductor|int|-|-|
+
+
 #### 4.8.1. Database Diagram
 
+![databasediagram](databasediagram.png)
 
 
 ## Capítulo V: Product Implementation, Validation & Deployment.
