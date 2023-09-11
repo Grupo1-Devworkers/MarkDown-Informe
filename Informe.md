@@ -931,7 +931,7 @@ trello:https://trello.com/invite/b/RGgzy5n6/ATTIed0ef7e06594ce844f1c803575a79c75
 
 
 
-##### 5.2.1.3. Development Evidence for Sprint Review.
+#### 5.2.1.3. Development Evidence for Sprint Review.
 
 | Repository | Branch | Commit Id | Commit messages | Commit Messages Body| Commit On (Date) |
 |---|----|-------|------|----|----|
@@ -939,7 +939,7 @@ trello:https://trello.com/invite/b/RGgzy5n6/ATTIed0ef7e06594ce844f1c803575a79c75
 |https://github.com/Grupo1-Devworkers/LandingPage.git | main| ad922aac0a655c3c933230357bc10313d16db5ab | style1 | style1 |
 | | main| e4bc87b | final | final |
 
-##### 5.2.1.5. Execution Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
 
 En esta sección se representa el desarrollo y despliegue de nuestro landing page donde se encuentran las secciones más importantes para presentar la aplicación.
 
@@ -953,9 +953,11 @@ En esta sección se representa el desarrollo y despliegue de nuestro landing pag
 
 ![landing5](landing5.jpeg)
 
-##### 5.2.1.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 Aquí se evidencia el avance que cada integrante hizo a lo largo del sprint desde el landing page hasta el desarrollo de una de sus secciones en el formato Markdown.
+
+![markdown](github.jpeg)
 
 ## Conclusiones
 
