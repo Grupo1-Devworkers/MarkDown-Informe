@@ -648,14 +648,14 @@ https://www.figma.com/proto/yn2i6VlaRkAre4xpe1l3lw/Lading-page-Mock-Up?type=desi
 
 #### 4.6.3. Software Architecture Components Diagrams.
 
-![c4model3](c4model3.png)
+![c4model3](diagramc4.png)
 
 ### 4.7. Software Object-Oriented Design.
 
 
 #### 4.7.1. Class Diagrams.
 
-![classdriagram](classdiagram.png)
+![classdriagram](classdiagram.jpeg)
 
 #### 4.7.2. Class Dictionary.
 
